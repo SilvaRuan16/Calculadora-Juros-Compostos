@@ -1,0 +1,1 @@
+var capital=document.getElementById("capital"),juros=document.getElementById("juros"),tempo=document.getElementById("tempo");null==capital&&null==juros&&null==tempo&&alert("Ops! Possue campo em que n\xE3o foram preenchidos, favor verificar!");
